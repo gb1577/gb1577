@@ -1,7 +1,7 @@
 # Gal Barkan
 
-3D artist, musician and game maker. I build small browser games from my own 3D artwork and music,
-using Three.js.
+3D artist, musician, and creator of games and apps. I turn my own 3D artwork and music into
+browser games and interactive tools, built with Three.js.
 
 ## Games
 
