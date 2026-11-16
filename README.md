@@ -46,11 +46,17 @@ Explore the endless expanses of fractal space: thirty raymarched layers, from Me
 <br><br>
 <b><a href="https://gb1577.github.io/vessel/">▶ Play</a></b> &nbsp;·&nbsp; <a href="https://github.com/gb1577/gb1577/tree/main/games/vessel">Screenshots &amp; info</a>
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<a href="https://github.com/gb1577/gb1577/tree/main/games/minitown"><img src="assets/minitown.jpg" alt="Minitown" width="100%"></a>
+<h3><a href="https://github.com/gb1577/gb1577/tree/main/games/minitown">Minitown</a></h3>
+Build a floating city: raise islands from a turquoise sea and link them with bridges, sky decks, trams and blimps.
+<br><br>
+<b><a href="https://gb1577.github.io/minitown/">▶ Play</a></b> &nbsp;·&nbsp; <a href="https://github.com/gb1577/gb1577/tree/main/games/minitown">Screenshots &amp; info</a>
+</td>
 </tr>
 </table>
 
-All five play in the browser on desktop and mobile. The art and music are my own.
+All six play in the browser on desktop and mobile. The art and music are my own.
 
 ## Elsewhere
 
